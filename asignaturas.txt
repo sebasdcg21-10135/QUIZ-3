@@ -1,0 +1,5 @@
+MA1111 Matematicas I
+FS1111 Fisica I
+EC1251 Circuitos I
+CT1212 Ing. Electrica
+CI2125 Computacion I
